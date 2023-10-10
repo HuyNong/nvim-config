@@ -1,2 +1,2 @@
-require("huynong.remap")
+require("huynong.core")
 require("huynong.lazy")
